@@ -173,3 +173,5 @@ HAIRpred2 is also available as a web server:
 ## Citation
 
 If you use HAIRpred2 in your work, please cite our paper *(citation to be added upon publication)*.
+## Zenodo
+ https://doi.org/10.5281/zenodo.19876445
